@@ -1,9 +1,10 @@
-- 👋 Hi, I’m a Front-End developer with over 3 years experience
-- 👀 I’m interested in devising sites with uses new technologies (React and etc.), and learning new technologies and tools if the need arises.
+- 👋 Hi, I’m a Software Engineer with 6+ years of experience, I have developed a strong skillset in Front-End development. Throughout my career, I have gained experience in various industries, including monitoring and reporting, learn and ecommerce platforms
+- 👀 My technology stack is extensive and includes expertise in JavaScript, TypeScript, React, Jest, HTML, CSS, CMS Shopify, and C++
+- 🌱 Additionally, I am passing courses on NodeJS now, further expanding my knowledge and capabilities
 - 💞️ I’m looking to collaborate on interesting projects with new technologies
 - 📫 How to reach me: pavelskumenko@gmail.com
 
-<!--- - 🌱 I’m currently learning the «React» free course from the Rolling Scopes community --->
+Overall, I am a driven and skilled software engineer, passionate about creating high-quality software solutions and delivering value to clients.
 
 <!---
 WFZ1/WFZ1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
